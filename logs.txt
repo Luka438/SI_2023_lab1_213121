@@ -1,0 +1,36 @@
+commit 9c504e4866e0ea78218a1cf64d59f037e4e6a117 (HEAD -> master, SI_2023_lab1_213121/master, SI_2023_lab1_213121/bug3, bug3)
+Author: Luka438 <luka.rusmir.02@gmail.com>
+Date:   Sun Apr 9 14:00:20 2023 +0200
+
+     Fix method sumEvenNumbers
+
+commit c6751447285c2e018edbe1fcc4101fa2495b1ff5
+Merge: 6daf37c c8c3d48
+Author: Luka438 <luka.rusmir.02@gmail.com>
+Date:   Sun Apr 9 14:06:59 2023 +0200
+
+    Merge branch 'bug2'
+
+commit c8c3d4842544844601f11896cc75fcf7eef062e5 (origin/bug2, SI_2023_lab1_213121/bug2, bug2)
+Author: Luka438 <luka.rusmir.02@gmail.com>
+Date:   Sun Apr 9 13:59:32 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 6daf37c0b89a25b17bab807df29709b4fc5de52d (origin/master, origin/bug1, SI_2023_lab1_213121/bug1, bug1)
+Author: Luka438 <luka.rusmir.02@gmail.com>
+Date:   Sun Apr 9 13:58:10 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 3aca0ade341d3ed610f337449ddf46b3d36ba5dd (master/master)
+Author: Luka438 <130280748+Luka438@users.noreply.github.com>
+Date:   Sun Apr 9 11:52:15 2023 +0200
+
+    Add java class
+
+commit 902a683927c193da22ec67ad9419310f78264151
+Author: Luka438 <130280748+Luka438@users.noreply.github.com>
+Date:   Sun Apr 9 11:48:17 2023 +0200
+
+    Initial commit
